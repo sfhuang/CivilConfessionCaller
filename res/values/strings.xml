@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">公民宣傳罷免．我自首</string>
+    <string name="about">關於本程式</string>
+    <string name="reason">緣起</string>
+    <string name="callCECTerminal">撥打中選會總機自首\n02-2356-5484</string>
+    <string name="callCECCommissionerChang">向張博雅主委自首\n02-2356-5179</string>
+    <string name="exitApp">結束本程式</string>
+    <string name="ok">確定</string>
+	<string name="AboutSection1">【名稱】</string>
+	<string name="AboutSection2">\n
+【程式版本】</string>
+    <string name="AboutSection3">\n
+【程式編號】愛臺程式 No.002\n
+【用途】自首自己曾宣傳罷免\n
+【程式作者】SF.Huang\n
+【完成日期】2014.02.13\n
+【更新日期】無\n</string> 
+    <string name="ReasonDetails">呼應「憲法133」發起之「打爆中選會」活動。邀請大家一起打電話去請教中選會張博雅主委這位「民主的女兒」，為什麼罷免不能宣傳？以及她之前明明在立法院說「研議修法」，為何現在搞「秋後算帳」？\n\n
+							馮光遠的號召：\n\n
+「好了，如果各位曾經犯過這些中選會認為違反民主十惡不赦的重罪（此指「宣傳罷免」），請打下列電話，告訴他們你們的電郵信箱，哪天如果要辦人，就可以寫信通知你們。\n\n
+俗語說，民不跟官鬥，馬英九政府的官，都是「他，馬的」了不起，這個中選會更是了不起中的了不起，諸位，自首去吧！」\n\n
+中選會總機：\n
+　　　02-2356-5484\n
+　　　分機1選舉業務\n
+　　　分機2法規業務\n
+　　　分機3資訊業務\n
+　　　分機4查詢各處室\n
+　　　分機8英語服務\n
+張博雅主委秘書專線\n
+　　　02-2356-5179\n</string>
+    
+</resources>
